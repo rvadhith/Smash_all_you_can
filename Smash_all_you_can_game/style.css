@@ -33,7 +33,7 @@
 
 #game-area {
     background:blue;
-    height: 600px;
+    height: 700px;
     border: 5px solid black;
 }
 
@@ -46,8 +46,7 @@
 
 .ck {
     height: 50px;
-    width: 50px;
-    
+    width: 50px;    
 }
 
 #cockroach-1{
